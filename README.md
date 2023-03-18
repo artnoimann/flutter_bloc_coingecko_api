@@ -1,4 +1,4 @@
-# flutter_bloc_stream_weather
+# flutter_bloc_coingecko_api
 
 A new Flutter project.
 
